@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	background-image: url(back.jpg); 
+	background-repeat: no-repeat;
+	background-size: cover; 
+	font-family: cursive
+}
+#container {
+	margin: 8% auto;
+	width: 400px;
+	text-align: center;
+}
+input	{
+	width: 285px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	margin-bottom: 20px;
+	border-radius: 2px;
+	border:1px solid white;
+}
+button {
+	padding: 5px 10px;
+	border-radius: 7px;
+	border:1px solid white;
+	background-color: white;
+	color: blue;
+}
+#output {
+	background-color: #00AAD8;
+	color: white;
+	padding: 10px;
+	font-size: 110%;
+}
+#wrong {
+	background-color: #DA0000;
+	color: white;
+	font-size: 110%;
+	padding: 10px;
+}
