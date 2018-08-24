@@ -20,7 +20,7 @@
 <html>
 <head>
 	<title>Weather</title>
-	<link rel="stylesheet" type="text/css" href="projects/Weather App/weather.css">
+	<link rel="stylesheet" type="text/css" href="weather.css">
 </head>
 <body>
 <div id="container">
@@ -43,5 +43,5 @@
 	?>
 </div>
 </body>
-<script type="text/javascript" src="projects/Weather App/weather.js"></script>
+<script type="text/javascript" src="weather.js"></script>
 </html>
