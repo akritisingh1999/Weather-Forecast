@@ -27,7 +27,8 @@
 	<h1>Know Your Weather</h1>
 	<h3>Enter Your City</h3>
 	<form method="get">
-		<input type="text" name="city"placeholder="Ex. Delhi, Mumbai">
+		<input type="text" name="city" placeholder="Ex. Delhi, Mumbai">
+		<input type="password" name="city" placeholder="Ex. Delhi, Mumbai">
 		<br>
 		<button>Submit</button>
 	</form>
